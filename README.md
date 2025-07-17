@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Agentic AI.**
 
-- 💬 Ask me about **Python (Pandas, NumPY, Matplotlib, seaborn, Tensorflow, PyTorch)**
+- 💬 Ask me about **Python (Pandas, NumPY, Matplotlib, seaborn, Tensorflow, PyTorch), AI/ML, Transformer, NLP, Power BI, Advance Excel **
 
 - 📫 How to reach me **d.patel.cse@gmail.com**
 
