@@ -1,6 +1,6 @@
 <img src="https://t4.ftcdn.net/jpg/04/38/93/15/360_F_438931535_DhZaUQHbGvGUxLzPNzT4inocmtABLBoO.jpg" width="1012" height="304">
 <h1 align="center">Hi 👋, I'm Denilkumar Patel</h1>
-<h3 align="center">A passionate Data Scientist from India!</h3>
+<h3 align="center">A passionate Data Scientist, AI/ML Engineer, Data Analyst from India!</h3>
 <img align="right" alt="Coding" width="400" src="https://imarticus.org/blog/wp-content/uploads/2019/05/daonline.gif">
 <p align="left"> <a href="https://twitter.com/@denilt22" target="blank"><img src="https://img.shields.io/twitter/follow/@denilt22?logo=twitter&style=for-the-badge" alt="@denilt22" /></a> </p>
 
