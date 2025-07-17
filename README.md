@@ -4,13 +4,13 @@
 <img align="right" alt="Coding" width="400" src="https://imarticus.org/blog/wp-content/uploads/2019/05/daonline.gif">
 <p align="left"> <a href="https://twitter.com/@denilt22" target="blank"><img src="https://img.shields.io/twitter/follow/@denilt22?logo=twitter&style=for-the-badge" alt="@denilt22" /></a> </p>
 
-- 🔭 I’m currently working on **Crop Production Analysis in India.**
+- 🔭 I’m currently working on **Generative AI.**
 
-- 🌱 I’m currently learning **NLP, Image processing.**
+- 🌱 I’m currently learning **Agentic AI.**
 
-- 💬 Ask me about **Python (Pandas, NumPY, Matplotlib, seaborn, Tensorflow, Keras)**
+- 💬 Ask me about **Python (Pandas, NumPY, Matplotlib, seaborn, Tensorflow, PyTorch)**
 
-- 📫 How to reach me **lined2212@gmail.com**
+- 📫 How to reach me **d.patel.cse@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
