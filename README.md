@@ -1,5 +1,8 @@
+<div align="center">
 
-<h1 align="center">Denilkumar Patel</h1>
+# Denilkumar Patel
+
+</div>
 <div align="center">
 
 <a href="https://linkedin.com/in/denil-patel">
