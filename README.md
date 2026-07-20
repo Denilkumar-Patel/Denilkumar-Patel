@@ -1,28 +1,136 @@
-<img src="https://t4.ftcdn.net/jpg/04/38/93/15/360_F_438931535_DhZaUQHbGvGUxLzPNzT4inocmtABLBoO.jpg" width="1012" height="304">
-<h1 align="center">Hi 👋, I'm Denilkumar Patel</h1>
-<h3 align="center">A passionate Data Scientist, AI/ML Engineer, Data Analyst from India!</h3>
-<img align="right" alt="Coding" width="400" src="https://imarticus.org/blog/wp-content/uploads/2019/05/daonline.gif">
-<p align="left"> <a href="https://twitter.com/@denilt22" target="blank"><img src="https://img.shields.io/twitter/follow/@denilt22?logo=twitter&style=for-the-badge" alt="@denilt22" /></a> </p>
+<div align="center">
 
-- 🔭 I’m currently working on **Generative AI.**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=220&section=header&text=Denilkumar%20Patel&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Generative%20AI%20Engineer%20%7C%20Agentic%20Systems%20%7C%20RAG%20%26%20LLMOps&descAlignY=58&descSize=18" width="100%"/>
 
-- 🌱 I’m currently learning **Agentic AI.**
+<a href="https://linkedin.com/in/denilkumar-patel">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:d.patel.cse@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://github.com/Denilkumar-Patel">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-- 💬 Ask me about **Python (Pandas, NumPY, Matplotlib, seaborn, Tensorflow, PyTorch), AI/ML, Transformer, NLP, Power BI, Advance Excel **
+<br/>
 
-- 📫 How to reach me **d.patel.cse@gmail.com**
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2C5364&center=true&vCenter=true&width=600&lines=Building+Multi-Agent+AI+Systems;LangGraph+%7C+RAG+%7C+LLM+Orchestration;Turning+Research+Papers+into+Production+Code" alt="Typing SVG" />
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/@denilt22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@denilt22" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/denil patel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="denil patel" height="30" width="40" /></a>
-</p>
+</div>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+<br/>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=denilkumar-patel&show_icons=true&locale=en&layout=compact" alt="denilkumar-patel" /></p>
+## 🧭 About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=denilkumar-patel&show_icons=true&locale=en" alt="denilkumar-patel" /></p>
+```yaml
+role: Generative AI Engineer (Fresher)
+education: B.Tech CSE, IIIT Bhagalpur (2021–2025)
+location: Surat, Gujarat, India
+currently_building: Multi-agent research assistants, RAG pipelines
+currently_learning: MCP servers, LLM fine-tuning (LoRA/PEFT)
+ask_me_about: [LangChain, LangGraph, RAG, Text-to-SQL, Agentic AI]
+```
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=denilkumar-patel&" alt="denilkumar-patel" /></p>
+<br/>
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+**Generative AI / LLMOps**
+
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square"/>
+<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
+<img src="https://img.shields.io/badge/Groq-F55036?style=flat-square"/>
+<img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white"/>
+
+**Core & Backend**
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
+
+**Data & Infra**
+
+<img src="https://img.shields.io/badge/FAISS-4285F4?style=flat-square"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS%20EC2-FF9900?style=flat-square&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/MS%20SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white"/>
+
+</div>
+
+<br/>
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🤖 [Omni-Analyst](https://github.com/Denilkumar-Patel/Omni-Analyst)
+Autonomous multi-agent research assistant with a self-correcting **Researcher–Critic** feedback loop, conditional routing, and checkpoint-based recovery.
+
+`LangGraph` `Groq` `Tavily` `Docker`
+
+</td>
+<td width="50%" valign="top">
+
+### 🏥 [MediRAG](https://github.com/Denilkumar-Patel/MediRAG-Evidence-Grounded-Medical-AI-Assistant)
+Evidence-grounded medical QA assistant using semantic search over curated references, cutting hallucinations via source-backed context injection.
+
+`LangChain` `FAISS` `Sentence Transformers`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🗣️ [QueryMate](https://github.com/Denilkumar-Patel/QueryMate-Talk-to-your-data)
+Text-to-SQL system converting natural language into valid SQL with 90%+ accuracy across 20+ query types, cutting manual querying effort by 80%.
+
+`Gemini` `FastAPI` `MS SQL Server`
+
+</td>
+<td width="50%" valign="top">
+
+### 📊 More Projects
+Classical ML & BI work: crop price forecasting, insurance cost prediction, hotel booking cancellation analysis, and a Power BI financial dashboard.
+
+`Scikit-learn` `Power BI` `Pandas`
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## 📈 GitHub Stats
+
+<div align="center">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Denilkumar-Patel&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Denilkumar-Patel&layout=compact&theme=tokyonight&hide_border=true"/>
+</div>
+
+<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Denilkumar-Patel&theme=tokyonight&hide_border=true"/>
+</div>
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Denilkumar-Patel&theme=tokyo-night&hide_border=true"/>
+</div>
+
+<br/>
+
+## 🏆 Achievements
+- 🥇 Global Rank **24** — CodeChef April Long Challenge 2022 (12,000+ participants)
+- 📜 IBM Data Science Certification
+- 📜 DeepLearning.AI × Stanford — Machine Learning Specialization
+
+<br/>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=100&section=footer" width="100%"/>
+</div>
