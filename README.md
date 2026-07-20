@@ -121,8 +121,10 @@ Classical ML & BI work: crop price forecasting, insurance cost prediction, hotel
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Denilkumar-Patel&theme=tokyo-night&hide_border=true"/>
 </div>
+
+## 🐍 Contribution Snake
+
 ![snake gif](https://raw.githubusercontent.com/Denilkumar-Patel/Denilkumar-Patel/output/github-contribution-grid-snake-dark.svg)
-<br/>
 
 ## 🏆 Achievements
 - 🥇 Global Rank **24** — CodeChef April Long Challenge 2022 (12,000+ participants)
