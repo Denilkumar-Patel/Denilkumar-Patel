@@ -1,4 +1,7 @@
 <div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=100&section="header" width="100%"/>
+</div>
+<div align="center">
 
 # Denilkumar Patel
 
