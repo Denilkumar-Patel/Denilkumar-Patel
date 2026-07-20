@@ -29,7 +29,7 @@ education: B.Tech CSE, IIIT Bhagalpur (2021–2025)
 location: Surat, Gujarat, India
 currently_building: Multi-agent research assistants, RAG pipelines
 currently_learning: MCP servers, LLM fine-tuning (LoRA/PEFT)
-ask_me_about: [LangChain, LangGraph, RAG, Text-to-SQL, Agentic AI]
+ask_me_about: [LangChain, LangGraph, RAG, Agentic AI, Transformers]
 ```
 
 <br/>
