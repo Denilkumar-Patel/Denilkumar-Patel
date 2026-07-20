@@ -28,7 +28,7 @@ role: Generative AI Engineer (Fresher)
 education: B.Tech CSE, IIIT Bhagalpur (2021–2025)
 location: Surat, Gujarat, India
 currently_building: Multi-agent research assistants, RAG pipelines
-currently_learning: MCP servers, LLM fine-tuning (LoRA/PEFT)
+currently_learning: LLM fine-tuning (LoRA/PEFT)
 ask_me_about: [LangChain, LangGraph, RAG, Agentic AI, Transformers]
 ```
 
