@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=220&section=header&text=Denilkumar%20Patel&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Generative%20AI%20Engineer%20%7C%20Agentic%20Systems%20%7C%20RAG%20%26%20LLMOps&descAlignY=58&descSize=18" width="100%"/>
 
-<a href="https://linkedin.com/in/denilkumar-patel">
+<a href="https://linkedin.com/in/denil-patel">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="mailto:d.patel.cse@gmail.com">
