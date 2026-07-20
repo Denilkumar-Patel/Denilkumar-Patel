@@ -1,5 +1,7 @@
-<div align="center">
+
 <h1 align="center">Denilkumar Patel</h1>
+<div align="center">
+
 <a href="https://linkedin.com/in/denil-patel">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
