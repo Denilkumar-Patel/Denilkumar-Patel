@@ -1,7 +1,7 @@
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=100&section="header" width="100%"/>
 </div>
-<h1 align="center">Denilkumar Patel</h1>
+<h1 align="center" style="font-size: 60px;>Denilkumar Patel</h1>
 <div align="center">
 <a href="https://linkedin.com/in/denil-patel">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
