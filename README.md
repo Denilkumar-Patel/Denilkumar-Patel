@@ -1,6 +1,7 @@
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=100&section="header" width="100%"/>
 </div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=220&section=header&text=Denilkumar%20Patel&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Generative%20AI%20Engineer%20%7C%20Agentic%20Systems%20%7C%20RAG%20%26%20LLMOps&descAlignY=58&descSize=18"/>
 <h1 align="center" style="font-size: 200px;">Denilkumar Patel</h1>
 <div align="center">
 <a href="https://linkedin.com/in/denil-patel">
