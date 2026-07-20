@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=220&section=header&text=Denilkumar%20Patel&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Generative%20AI%20Engineer%20%7C%20Agentic%20Systems%20%7C%20RAG%20%26%20LLMOps&descAlignY=58&descSize=18" width="100%"/>
 
-<a href="https://linkedin.com/in/denil-patel">
+<a href="https://linkedin.com/in/denilkumar-patel">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="mailto:d.patel.cse@gmail.com">
@@ -107,24 +107,20 @@ Classical ML & BI work: crop price forecasting, insurance cost prediction, hotel
 
 <br/>
 
-## 📈 GitHub Stats
+## 📈 GitHub Activity
 
 <div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Denilkumar-Patel&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Denilkumar-Patel&layout=compact&theme=tokyonight&hide_border=true"/>
-</div>
 
-<div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Denilkumar-Patel&theme=tokyonight&hide_border=true"/>
-</div>
+<img src="https://img.shields.io/github/followers/Denilkumar-Patel?label=Followers&style=for-the-badge&color=2c5364"/>
+<img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/Denilkumar-Patel&label=Public%20Repos&query=%24.public_repos&style=for-the-badge&color=0f2027"/>
 
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Denilkumar-Patel&theme=tokyo-night&hide_border=true"/>
 </div>
 
 ## 🐍 Contribution Snake
 
 ![snake gif](https://raw.githubusercontent.com/Denilkumar-Patel/Denilkumar-Patel/output/github-contribution-grid-snake-dark.svg)
+
+<br/>
 
 ## 🏆 Achievements
 - 🥇 Global Rank **24** — CodeChef April Long Challenge 2022 (12,000+ participants)
