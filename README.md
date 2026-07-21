@@ -1,6 +1,3 @@
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=100&section="header" width="100%"/>
-</div>
 <h1 align="center" style="font-size: 200px;">Denilkumar Patel</h1>
 <div align="center">
 <a href="https://linkedin.com/in/denil-patel">
